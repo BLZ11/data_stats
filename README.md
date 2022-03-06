@@ -47,3 +47,9 @@ where
 - ```ratio.py``` ratio between averages of y column to x columns 
 
 For information on the API used for each of these modules, visit ```scripts/api_info.md```.
+
+## Sample files
+
+Some sample text files are present in ```test_files``` folder. This includes:
+- ```DataFilePassed.txt``` which is free from exceptions 
+- ```mis1.txt``` and ```mis2.txt``` which triggers exceptions
